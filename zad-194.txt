@@ -1,0 +1,4 @@
+194. Informacioni sistem studija za video produkciju. U centralizovanoj bazi se skladište podaci o klijentima, zaposlenima, opremi, uslugama i projektima. Na svakom projektu može biti anagažovano više ljudi sa razlicitim ulogama (snimatelj, glumac i slicno) i razliciti elementi opreme (jedna ili više kamera, svetla, chroma key zavesa). Nakon snimljenog materijala, klijentima se pruža mogucnost da kupe i uslugu montiranja i objavljivanja materijala. Što se objavljivanja materijala tice, vodi se evidencija o broju pregleda i procenat zarade od reklama daje klijentima. Uzeti u obzir funkcionalnost obracunavanja cene kompletne usluge po projektu. 
+
+
+Obrazac: poslovni dogadaji – istorija rezultata
